@@ -1,0 +1,6 @@
+enum Role { 
+	BATSMAN,
+	BOWLER,
+	ALLROUNDER, 
+	WICKETKEEPER 
+}
